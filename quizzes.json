@@ -1,0 +1,28 @@
+[
+    {
+        "question": "Which language is primarily used for web development?",
+        "options": ["Python", "JavaScript", "C++", "Java"],
+        "correct": "JavaScript"
+    },
+    {
+        "question": "What does AI stand for?",
+        "options": ["Artificial Intelligence", "Automated Internet", "Applied Innovation", "Advanced Integration"],
+        "correct": "Artificial Intelligence"
+    },
+    {
+        "question": "Which framework is commonly used for Python web apps?",
+        "options": ["Flask", "React", "Angular", "Vue"],
+        "correct": "Flask"
+    },
+    {
+        "question": "Which company created LinkedIn?",
+        "options": ["Microsoft", "LinkedIn Corporation", "Facebook", "Google"],
+        "correct": "LinkedIn Corporation"
+    },
+    {
+        "question": "Which chart library is used for dashboards in our app?",
+        "options": ["Chart.js", "D3.js", "Highcharts", "Matplotlib"],
+        "correct": "Chart.js"
+    }
+]
+

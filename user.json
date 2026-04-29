@@ -1,0 +1,28 @@
+[
+    {
+        "username": "Alice",
+        "score": 5,
+        "date": "2026-01-21 12:00:00"
+    },
+    {
+        "username": "Bob",
+        "score": 4,
+        "date": "2026-01-21 12:00:00"
+    },
+    {
+        "username": "Charlie",
+        "score": 3,
+        "date": "2026-01-21 12:00:00"
+    },
+    {
+        "username": "Diana",
+        "score": 5,
+        "date": "2026-01-21 12:00:00"
+    },
+    {
+        "username": "Ethan",
+        "score": 2,
+        "date": "2026-01-21 12:00:00"
+    }
+]
+

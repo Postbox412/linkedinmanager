@@ -1,0 +1,27 @@
+[
+    {
+        "username": "Alice",
+        "topic": "Importance of Networking",
+        "type": "Professional Update",
+        "tone": "Formal",
+        "post": "Networking is the backbone of professional growth. Engage with your peers to open new opportunities!",
+        "date": "2026-01-21 12:00:00"
+    },
+    {
+        "username": "Bob",
+        "topic": "Motivation in Tech",
+        "type": "Motivational",
+        "tone": "Inspiring",
+        "post": "Every bug you solve today is a step towards becoming a better developer. Keep pushing!",
+        "date": "2026-01-21 12:00:00"
+    },
+    {
+        "username": "Charlie",
+        "topic": "AI in 2026",
+        "type": "Tech Insight",
+        "tone": "Casual",
+        "post": "AI is transforming industries faster than ever. Are you ready to embrace the change?",
+        "date": "2026-01-21 12:00:00"
+    }
+]
+
